@@ -6,7 +6,7 @@ from configparser import ConfigParser
 
 if __name__ == "__main__":
     start_datetime = datetime.now()
-    cwd = os.path.dirname(os.path.abspath(__file__))
+    cwd = os.path.dirname(os.path.abspath(/Users/henrywall/Documents/GitHub/SyncNotionCalendar))
     log_file = os.path.join(cwd,'logs',f"{start_datetime.strftime('%Y-%m-%dT%H:%M:%S')}.log")
     # Remove all handlers associated with the root logger object.
     for handler in logging.root.handlers[:]:

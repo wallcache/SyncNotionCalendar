@@ -1,0 +1,5 @@
+NOTION_TOKEN=<secret_v2H4NU6SSVIFHStkHNoHuzyKUQqtyHiiXemrzsHJg0H>
+APPLE_CALENDAR=<h.wallcache@gmail.com>
+
+[DATABASES]
+<your chosen database name 1>=<https://www.notion.so/henry-wall/4a375183752d4c8eb4753e7db9b97de0?v=ba95b34dd7f2468cb079d7612a4dc313>
