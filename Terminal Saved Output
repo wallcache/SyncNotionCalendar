@@ -1,0 +1,48 @@
+Last login: Fri Feb 25 12:53:33 on ttys000
+(base) henrywall@Henrys-MBP ~ % contrab -e
+zsh: command not found: contrab
+(base) henrywall@Henrys-MBP ~ % crontab -e
+crontab: no crontab for henrywall - using an empty one
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 8-22 * * * cd ~/scripts/SyncNotionCalendar && ./syncNotionCalendar.zsh
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
